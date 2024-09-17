@@ -1,0 +1,6 @@
+#!/bin/bash
+if [ "$(dirs -v | wc -l)" -gt 1 ]; then
+popd > /dev/null
+else
+    echo "No previous directory to return to."
+fi
