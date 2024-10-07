@@ -1,4 +1,4 @@
-#!/usr/bin/env ba
+#!/usr/bin/env bash
 #Script  displays Best School 10 times.
 
 i=0 
